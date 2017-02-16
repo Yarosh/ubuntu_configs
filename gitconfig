@@ -1,0 +1,14 @@
+[color]
+	ui = true
+[user]
+	name = Yarosh
+	email = yaron.hagai@gmail.com
+
+[alias]
+	st = status
+	ci = commit
+	co = checkout
+	lp = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+	lastdiff = diff HEAD~1 HEAD
+	br = branch
+	
