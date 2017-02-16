@@ -1,8 +1,8 @@
 [color]
 	ui = true
 [user]
-	name = Yarosh
-	email = yaron.hagai@gmail.com
+	name = yourusername
+	email = your@email.com
 
 [alias]
 	st = status
