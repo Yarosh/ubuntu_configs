@@ -1,6 +1,5 @@
 # ubuntu_configs
-Some configs for my ubuntu local dev env:
-To use this:
+Some configs for my ubuntu local dev env. To use this
 
 1. `cp bashrc ~/.bashrc`
 2. `cp gitconfig ~/.gitconfig` (don't forget to change username and email)
